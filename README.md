@@ -5,3 +5,6 @@ A system set up for flattening speed bumps for ambulances, to reduce patient ris
 # Detection of the ambulance
 The ambulance in a particular frame is detected using the yolov5 architecture , a yolo v5 model is trained using Imagenet Object Localized data set , since the data set had high randomness it was not not possible to get high accuraccy as output
 
+### Devfolio link
+
+[https://devfolio.co/projects/flip-the-breaks-684f](https://devfolio.co/projects/flip-the-breaks-684f)
